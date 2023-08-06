@@ -70,7 +70,7 @@ font-style: normal;
     text-align: left;
     color: #434455}
 
-.address-link:hover, .mail-link, .tel-link:active, .mail-link, .tel-link:focus {
+.address-link:hover, .address-link:active, .address-link:focus {
         color: #404bbf;
 }
 
